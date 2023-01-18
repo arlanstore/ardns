@@ -23,7 +23,7 @@ THIS IS A SCRIPT FOR AUTO INSTALLATION OF SLOWDNS (DNSTT SERVER) WITH:
 
 # Installation
 ```
-rm -rf install; apt update; wget https://github.com/khaledagn/SlowDNS/raw/main/install; chmod 777 install; ./install --start
+rm -rf install; apt update; wget https://github.com/arlanstore/ardns/raw/main/install; chmod 777 install; ./install --start
 
 ```
 
@@ -38,4 +38,4 @@ rm -rf install; apt update; wget https://github.com/khaledagn/SlowDNS/raw/main/i
 
 ## :octocat: Credits
 
-1. [@LaelsonCG )
+1. [@arlanstore )
