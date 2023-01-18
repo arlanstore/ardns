@@ -1,6 +1,6 @@
-# DNS-AGN By KHALED AGN ( ENGLISH )
+# ARDNS By ARLAN STORE ( ENGLISH )
 ```
-* DNS-AGN SLOWDNS SCRIPT
+* ARDNS SLOWDNS SCRIPT
 ```
 ![logo](https://raw.githubusercontent.com/arlanstore/ardns/main/AGN-DNS.png)
 
