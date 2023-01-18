@@ -2,7 +2,7 @@
 ```
 * ARDNS SLOWDNS SCRIPT
 ```
-![logo](https://raw.githubusercontent.com/arlanstore/ardns/main/AGN-DNS.png)
+![logo](https://raw.githubusercontent.com/arlanstore/ardns/main/ARDNS.png)
 
 ```
 THIS IS A SCRIPT FOR AUTO INSTALLATION OF SLOWDNS (DNSTT SERVER) WITH:
